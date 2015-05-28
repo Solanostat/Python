@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-map bisulfite converted reads to an insilico converted genome using bwa mem.
+map bisulfite converted reads to an in silico converted genome using Burrows-Wheeler Aligner(bwa).
 A command to this program like:
 
     python bwameth.py --reference ref.fa A.fq B.fq
